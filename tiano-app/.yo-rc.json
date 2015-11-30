@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "TianoApp",
+    "packageName": "com.erp.business",
+    "packageFolder": "com/erp/business",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": false,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "4018fa68acda6f4a02b638252cb5726e1ec8d5ad",
+    "testFrameworks": [
+      "gatling"
+    ]
+  }
+}
